@@ -385,7 +385,7 @@ Exiqo One:
 - May include user display name, account ID, and email in event payloads
 - Sends data **only** to the webhook URL you configure
 
-For privacy details, see: [R Systems Privacy Policy](https://www.rsystems.com/privacy-policy)
+For privacy details, see [PRIVACY.md](https://github.com/vatsal-rsi/exiqo-one/blob/main/PRIVACY.md).
 
 ---
 
@@ -393,8 +393,8 @@ For privacy details, see: [R Systems Privacy Policy](https://www.rsystems.com/pr
 
 | Channel | Contact |
 |---------|---------|
-| **Email** | support@rsystems.com |
-| **Documentation** | This repository |
+| **Email** | vatsal.patel@rsystems.com |
+| **Documentation** | [github.com/vatsal-rsi/exiqo-one](https://github.com/vatsal-rsi/exiqo-one) |
 | **Version** | 2.0.0 |
 
 ---
@@ -413,5 +413,5 @@ For privacy details, see: [R Systems Privacy Policy](https://www.rsystems.com/pr
 ---
 
 <p align="center">
-  <sub>Built by R Systems · Exiqo One © 2026</sub>
+  <sub>Exiqo One © 2026 · vatsal.patel@rsystems.com</sub>
 </p>
